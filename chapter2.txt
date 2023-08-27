@@ -1,1 +1,2 @@
 I am writing here this chapter2 file for testing git.
+Another test to check if branches work. 
